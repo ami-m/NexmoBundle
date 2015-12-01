@@ -1,0 +1,3 @@
+ami_m_nexmo_homepage:
+    path:     /
+    defaults: { _controller: AmiMNexmoBundle:Default:index }
